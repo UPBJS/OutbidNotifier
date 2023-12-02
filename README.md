@@ -2,7 +2,6 @@
 A script that notifies you when you are outbid in an auction in Hypixel Skyblock
 
 
-## Written in Python
 ## Authors: Me & My power of determination ( ﾉ ﾟｰﾟ)ﾉ
 
 
